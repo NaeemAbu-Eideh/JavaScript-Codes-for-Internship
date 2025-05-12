@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#counter{
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.increase_decrease{
+    font-size: large;
+}
